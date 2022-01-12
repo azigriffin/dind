@@ -3,3 +3,4 @@
 set -x
 dockerd&
 
+bash
